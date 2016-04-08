@@ -4,7 +4,6 @@ config.m
 *.mat
 *.fig
 helpers/matlab2tikz/*
-*.zip
 *.cmd
 *.sh
 *.html
