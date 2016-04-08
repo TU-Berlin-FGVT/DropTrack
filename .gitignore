@@ -1,0 +1,16 @@
+*.asv
+config.m
+*.xlsx
+*.mat
+*.fig
+helpers/matlab2tikz/*
+*.zip
+*.cmd
+*.sh
+*.html
+*.bmp
+*.jpg
+*.csv
+out/*
+tmp/*
+*.fig
