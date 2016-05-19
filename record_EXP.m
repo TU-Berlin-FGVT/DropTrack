@@ -10,7 +10,7 @@
 % If you use this code in your work, please refer to the following paper:
 % Kamp, J.; Hänsch, R.; Kendzierski, G.; Kraume, M. & Hellwich, O. 
 % Automated image analysis for trajectory determination of single drop collisions 
-% Computers & Chemical Engineering, 2016
+% Computers & Chemical Engineering, 2016, 89, 184-191
 % http://dx.doi.org/10.1016/j.compchemeng.2016.03.033
 %
 % DropTrack (c) 2015, Johannes Kamp, Ronny Hänsch, Gregor Kendzierski and contributors.

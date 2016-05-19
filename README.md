@@ -11,19 +11,23 @@ and their collision. With this information the drop velocity in each sequence is
 calculated and mean values of multiple drop collisions are determined for serial
 examinations of single drop collisions.
 
-For further details and downloads please visit http://www.rhaensch.de/droptrack.html
+For further details and downloads please visit http://www.rhaensch.de/droptrack.html and http://dx.doi.org/10.1016/j.compchemeng.2016.03.033 .  
 For questions or remarks don't hesitate to contact: johannes.kamp@tu-berlin.de
 
 If you use this code in your work, please refer to the following paper:
 
 ``` bibtex
 @ARTICLE{Kamp2016,
-    author = {Kamp, Johannes and H\"ansch, Ronny and Kendzierski, Gregor and Kraume, Matthias and Hellwich, Olaf},
-    title  = {Automated image analysis for trajectory determination of single drop collisions},
-    journal= {Computers \& Chemical Engineering},
-    year   = {2016},
-    doi    = {10.1016/j.compchemeng.2016.03.033},
-    url    = {http://dx.doi.org/10.1016/j.compchemeng.2016.03.033}
+    author    = {Kamp, Johannes and H\"ansch, Ronny and Kendzierski, Gregor and Kraume, Matthias and Hellwich, Olaf},
+    title     = {Automated image analysis for trajectory determination of single drop collisions},
+    journal   = {Computers \& Chemical Engineering},
+	publisher = {Elsevier BV},
+    year      = {2016},
+    month     = {Jun},
+    pages     = {184-191},
+    volume    = {89},
+    doi       = {10.1016/j.compchemeng.2016.03.033},
+    url       = {http://dx.doi.org/10.1016/j.compchemeng.2016.03.033}
 }
 ```
 
